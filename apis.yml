@@ -8,6 +8,17 @@ description: 'Edme Insurance Brokers Ltd (formerly Aditya Birla Insurance Broker
   benefits. Edme is a portfolio company of Norwest Venture Partners. This is a company profile in the
   API Evangelist network; Edme publishes no public developer program or API surface at this time.'
 url: https://raw.githubusercontent.com/api-evangelist/edmeinsurance/refs/heads/main/apis.yml
+deliveryModel:
+  model: saas
+  open_source: false
+  commercial: true
+  callable_host: false
+  label: Hosted service · you call their endpoint
+  confidence: medium
+  source:
+  - pricing
+  generated: '2026-08-28'
+  method: derived
 accessModel:
   pricing: unknown
   onboarding: unknown
